@@ -1,0 +1,134 @@
+
+#logo {
+		height: 200px;
+		width: 200px;
+
+}
+
+h1 {
+	font-family: "Open Sans";
+	}
+div {
+	font-family: "Quicksand";
+}
+
+#IntroBlock {
+	width: 1000px;
+	background-image: url(eaad549c1914da25a73be9b02e68e7ce.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 100px ; 
+	background-size: 1000px; 
+
+	height: 200vh;
+
+	margin: auto;
+}
+
+#IntroSimple {
+	background-color: white;
+}
+
+#Header {
+	margin:auto;
+	width: 200px;
+	text-align: center;
+}
+#Header h1 {
+	margin-top: 10px;
+}
+
+#nav { text-align: center;
+		margin-top: 30px;
+		 }
+#nav p {
+	display: inline;
+	margin-right: 1em;
+	margin-left: 1em;
+
+}
+
+body{
+	background-color:white;
+	
+  	
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 14pt;
+}
+
+a:hover{
+	color: white;
+}
+.menu a:hover{
+	color: #87CEFA;
+}
+
+#gauche { width: 400px;
+			height: 200px;
+	 		float: left;
+			background-color: white;
+
+}
+
+#milieu{ width: 400px;
+			height: 200px;
+			float: left;
+	background-color: white;
+
+
+
+}
+
+#droite {width: 400px;
+			height: 200px;
+			float: left;
+	background-color: white;
+}
+
+#portfolio {
+		margin: 0;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 0;
+		width: 1200px;
+		margin-top: 70px;
+		max-height: 200px;
+
+}
+#portfolio img {
+
+		width: 390px;
+
+}
+
+#adresse {
+	margin-left: 440px
+
+}
+
+#vitae h1 {
+font-family: 'Source Sans Pro', sans-serif;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
